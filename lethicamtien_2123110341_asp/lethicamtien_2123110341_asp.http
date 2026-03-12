@@ -1,0 +1,6 @@
+@lethicamtien_2123110341_asp_HostAddress = http://localhost:5277
+
+GET {{lethicamtien_2123110341_asp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
